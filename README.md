@@ -1,4 +1,4 @@
-# Kitap Fiyat Analizi
+# BKM Kitap Fiyat Analizi
 
 Bu proje, bir kitap sitesindeki kitapların fiyat bilgilerini çekip analiz eden bir Python uygulamasıdır.  
 
